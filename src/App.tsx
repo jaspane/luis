@@ -132,7 +132,7 @@ function App() {
             <div className="relative group">
               <div className="bg-white p-8 rounded-3xl shadow-2xl group-hover:shadow-3xl transition-all duration-500 transform group-hover:-translate-y-2">
                 <img 
-                  src="/LuisDiazprofile.png" 
+                  src="/LuisDiazprofile1.png" 
                   alt="Dr. Luis Diaz" 
                   className="w-full h-160 object-cover rounded-2xl group-hover:scale-105 transition-transform duration-500"
                 />
